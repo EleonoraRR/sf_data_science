@@ -2,19 +2,19 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#какой-кейс-решаем)  
+[2. Какие задачи решаем?](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#какие-задачи-решаем)  
 [3. Краткая информация о данных](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#этапы-работы-над-проектом)  
 [5. Результат](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#результат)  
 [6. Выводы](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#выводы)
 
 ### Описание проекта
-В проекте осуществляется подготовка данных для их дальнейшего использования при построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю.
+В проекте осуществляется подготовка данных для их дальнейшего использования при построении модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю.
 
-:arrow_up:[к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#Оглавление)
 
 
-### Какой кейс решаем
+### Какие задачи решаем
 Преобразование, исследование и очистка данных с резюме соискателей работы.
 
 **Условия соревнования:**
@@ -23,7 +23,7 @@
 - Отправить свой код ментору для проверки. 
 
 
-**Метрика качества** 
+**Метрики качества** 
 - Решение оформляется только в Jupyter Notebook.
 - Решение оформляется в соответствии с ноутбуком-шаблоном.
 - Каждое задание выполняется в отдельной ячейке, выделенной под задание (в шаблоне они помечены как ваш код здесь). Не следует создавать множество ячеек для решения задачи — это создаёт неудобства при проверке.
@@ -41,11 +41,13 @@
 - Методы визуализации данных с помощью различных библиотек.
 - Методы очистки данных.
 
+:arrow_up: [к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#Оглавление)
+
 ### Краткая информация о данных
 База резюме, выгруженная с сайта поиска вакансий hh.ru
 https://drive.google.com/file/d/1emtoNIoDCeB49J6L6xkRgUDuaENKaMM1/view?usp=sharing
 
-:arrow_up:[к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -57,16 +59,16 @@ https://drive.google.com/file/d/1emtoNIoDCeB49J6L6xkRgUDuaENKaMM1/view?usp=shari
 
 4. Очистка данных.
 
-:arrow_up:[к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#Оглавление)
 
 
 ### Результат
 [См. ноутбук](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/Project-1.ipynb#ноутбук) 
 
-:arrow_up:[к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#Оглавление)
 
 
 ### Выводы
 [См. ноутбук](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/Project-1.ipynb#ноутбук) 
  
-:arrow_up:[к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1/README.md#Оглавление)

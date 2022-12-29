@@ -2,7 +2,7 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#какой-кейс-решаем)  
+[2. Какие задачи решаем?](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#какие-задачи-решаем)  
 [3. Краткая информация о данных](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#этапы-работы-над-проектом)  
 [5. Результат](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#результат)  
@@ -14,7 +14,7 @@
 :arrow_up:[к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_0/README.md#Оглавление)
 
 
-### Какой кейс решаем
+### Какие задачи решаем
 Нужно написать программу, которая угадывает число меньше, чем за 20 число попыток
 
 **Условия соревнования:**
