@@ -64,12 +64,12 @@
 :arrow_up: [к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_3/README.md#Оглавление)
 
 ### Результат
-[См. ноутбук](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_2/Project_3.ipynb#ноутбук) 
+[См. ноутбук](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_3/Project_3.ipynb#ноутбук) 
 
 :arrow_up: [к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_3/README.md#Оглавление)
 
 
 ### Выводы
-[См. ноутбук](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_2/Project_3.ipynb#ноутбук) 
+[См. ноутбук](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_3/Project_3.ipynb#ноутбук) 
  
 :arrow_up: [к оглавлению](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_3/README.md#Оглавление)

@@ -1,4 +1,4 @@
-# Проект 1. Анализ вакансий из HeadHunter
+# Проект 2. Анализ вакансий из HeadHunter
 
 ## Оглавление
 [1. Описание проекта](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_2/README.md#описание-проекта)  
