@@ -131,3 +131,16 @@ Project_1/data/dst-3.0_16_1_hh_database.csv
 Project_3/data/hotels_test.csv
 Project_3/data/hotels_train.csv
 Project_3/data/submission.csv
+
+prod/server.py
+prod/server1.py
+prod/server2.py
+prod/server3.py
+prod/server4.py
+prod/server5.py
+prod/client.py
+prod/client5.py
+prod/hw2_check_ol.py
+prod/models/model.pkl
+
+Graduation_project/data/data.csv
