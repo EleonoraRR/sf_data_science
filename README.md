@@ -7,3 +7,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 1. Анализ резюме из базы данных компании HeadHunter](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_1)
 * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_2)
 * [Проект 3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/EleonoraRR/sf_data_science/tree/main/Project_3)
+* [Дипломный проект. Модель прогнозирования стоимости жилья для агентства недвижимости](https://github.com/EleonoraRR/sf_data_science/tree/main/Graduation_project)
